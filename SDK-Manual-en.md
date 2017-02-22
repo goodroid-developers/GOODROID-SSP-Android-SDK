@@ -8,12 +8,6 @@ GOODROID-SSP iOS SDK is equipped with the following functions :
 - Display the landing page by clicking ads
 - Advertisements auto refresh
 
-## Download
-
-Download iOS SDK form the URL below :
-
-- **[GOODROID-SSP-Android-SDK](https://github.com/goodroid-developers/GOODROID-SSP-Android-SDK/releases)**
-
 ## Integration Manual
 
 <https://github.com/goodroid-developers/GOODROID-SSP-Android-SDK/wiki>

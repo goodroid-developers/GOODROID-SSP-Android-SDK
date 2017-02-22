@@ -7,12 +7,6 @@ GOODROID-SSP Android SDK は、Android アプリケーション内に広告を�
 - 広告のタッチによる、広告主様サイトの表示(ブラウザアプリの起動)
 - 表示広告の自動更新
 
-## ダウンロード
-
-以下の URL から GOODROID-SSP Android SDK をダウンロードします。
-
-- **[GOODROID-SSP-Android-SDK](https://github.com/goodroid-developers/GOODROID-SSP-Android-SDK/releases)**
-
 ## 組み込み手順
 
 組み込み手順は、以下のドキュメントを参照してください。  
