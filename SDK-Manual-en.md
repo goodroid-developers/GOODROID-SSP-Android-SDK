@@ -1,8 +1,8 @@
-# Geniee Android SDK
+# GOODROID-SSP Android SDK
 
-Geniee Android SDK enables interstitial and banner ads easily and with a little efforts.
+GOODROID-SSP Android SDK enables interstitial and banner ads easily and with a little efforts.
 
-Geniee iOS SDK is equipped with the following functions :
+GOODROID-SSP iOS SDK is equipped with the following functions :
 
 - Serve and display advertisements on your application
 - Display the landing page by clicking ads
@@ -12,11 +12,11 @@ Geniee iOS SDK is equipped with the following functions :
 
 Download iOS SDK form the URL below :
 
-- **[Geniee-Android-SDK](https://github.com/geniee-ssp/Geniee-Android-SDK/releases)**
+- **[GOODROID-SSP-Android-SDK](https://github.com/goodroid-developers/GOODROID-SSP-Android-SDK/releases)**
 
 ## Integration Manual
 
-<https://github.com/geniee-ssp/Geniee-Android-SDK/wiki>
+<https://github.com/goodroid-developers/GOODROID-SSP-Android-SDK/wiki>
 
 ## ChangeLog
 

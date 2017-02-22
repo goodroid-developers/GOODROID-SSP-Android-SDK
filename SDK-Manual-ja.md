@@ -1,6 +1,6 @@
-# Geniee Android SDK
+# GOODROID-SSP Android SDK
 
-Geniee Android SDK は、Android アプリケーション内に広告を表示するための Ad SDK です。
+GOODROID-SSP Android SDK は、Android アプリケーション内に広告を表示するための Ad SDK です。
 
 以下の機能を備えています。  
 - 広告の表示
@@ -9,14 +9,14 @@ Geniee Android SDK は、Android アプリケーション内に広告を表示�
 
 ## ダウンロード
 
-以下の URL から Geniee Android SDK をダウンロードします。
+以下の URL から GOODROID-SSP Android SDK をダウンロードします。
 
-- **[Geniee-Android-SDK](https://github.com/geniee-ssp/Geniee-Android-SDK/releases)**
+- **[GOODROID-SSP-Android-SDK](https://github.com/goodroid-developers/GOODROID-SSP-Android-SDK/releases)**
 
 ## 組み込み手順
 
 組み込み手順は、以下のドキュメントを参照してください。  
-<https://github.com/geniee-ssp/Geniee-Android-SDK/wiki>
+<https://github.com/goodroid-developers/GOODROID-SSP-Android-SDK/wiki>
 
 ## バージョン新機能
 

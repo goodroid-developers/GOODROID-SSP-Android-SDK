@@ -1,5 +1,5 @@
 # Changes for adapter
-Define a Custom Event for Admob Mediation Geniee Ad Network
+Define a Custom Event for Admob Mediation GOODROID-SSP Ad Network
 
 ## Version GNAdMediationAdapter-1.0.2.jar or later
 Please change the Custom Event Class Name  

@@ -1,4 +1,4 @@
-# Geniee Android SDK
+# GOODROID-SSP Android SDK
 
 ## [日本語](SDK-Manual-ja.md)
 
